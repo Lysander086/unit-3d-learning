@@ -1,0 +1,2 @@
+- [original repo for reference](https://github.com/CompleteUnityDeveloper2/3_Project_Boost.git)
+- [unity git ignore](https://github.com/CompleteUnityDeveloper2/3_Project_Boost/blob/master/.gitignore)
