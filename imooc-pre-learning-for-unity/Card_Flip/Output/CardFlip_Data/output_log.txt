@@ -1,0 +1,138 @@
+Initialize engine version: 5.6.5f1 (34eb74987f9d)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     944 MB
+    Driver:   10.18.10.3304
+CreateFromSerializedShader: 'Hidden/InternalErrorShader', '', ''
+CreateFromSerializedSubShader:'Hidden/InternalErrorShader'
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\other\Unity\Card_Flip\Output\CardFlip_Data\Managed\System.dll (this message is harmless)
+CreateFromSerializedShader: 'Hidden/Internal-DeferredShading', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-DeferredShading'
+CreateFromSerializedShader: 'Hidden/Internal-DeferredReflections', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-DeferredReflections'
+CreateFromSerializedShader: 'Hidden/Internal-ScreenSpaceShadows', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-ScreenSpaceShadows'
+CreateFromSerializedSubShader:'Hidden/Internal-ScreenSpaceShadows'
+CreateFromSerializedSubShader:'Hidden/Internal-ScreenSpaceShadows'
+CreateFromSerializedSubShader:'Hidden/Internal-ScreenSpaceShadows'
+CreateFromSerializedShader: 'Hidden/Internal-PrePassLighting', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-PrePassLighting'
+CreateFromSerializedShader: 'Hidden/Internal-DepthNormalsTexture', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedSubShader:'Hidden/Internal-DepthNormalsTexture'
+CreateFromSerializedShader: 'Hidden/Internal-MotionVectors', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-MotionVectors'
+CreateFromSerializedShader: 'Hidden/Internal-Halo', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-Halo'
+CreateFromSerializedShader: 'Hidden/Internal-Flare', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-Flare'
+CreateFromSerializedShader: 'Legacy Shaders/Diffuse', 'Legacy Shaders/VertexLit', ''
+CreateFromSerializedSubShader:'Legacy Shaders/Diffuse'
+CreateFromSerializedShader: 'Legacy Shaders/VertexLit', '', ''
+CreateFromSerializedSubShader:'Legacy Shaders/VertexLit'
+CreateFromSerializedShader: 'Hidden/CubeBlur', '', ''
+CreateFromSerializedSubShader:'Hidden/CubeBlur'
+CreateFromSerializedSubShader:'Hidden/CubeBlur'
+CreateFromSerializedShader: 'Hidden/CubeCopy', '', ''
+CreateFromSerializedSubShader:'Hidden/CubeCopy'
+CreateFromSerializedSubShader:'Hidden/CubeCopy'
+CreateFromSerializedShader: 'Hidden/CubeBlend', '', ''
+CreateFromSerializedSubShader:'Hidden/CubeBlend'
+CreateFromSerializedSubShader:'Hidden/CubeBlend'
+CreateFromSerializedShader: 'Sprites/Default', '', ''
+CreateFromSerializedSubShader:'Sprites/Default'
+CreateFromSerializedShader: 'UI/Default', '', ''
+CreateFromSerializedSubShader:'UI/Default'
+CreateFromSerializedShader: 'Hidden/VideoDecode', '', ''
+CreateFromSerializedSubShader:'Hidden/VideoDecode'
+CreateFromSerializedShader: 'Hidden/Internal-StencilWrite', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-StencilWrite'
+CreateFromSerializedShader: 'Hidden/Internal-CombineDepthNormals', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-CombineDepthNormals'
+CreateFromSerializedShader: 'Hidden/BlitCopy', '', ''
+CreateFromSerializedSubShader:'Hidden/BlitCopy'
+CreateFromSerializedShader: 'Hidden/BlitCopyDepth', '', ''
+CreateFromSerializedSubShader:'Hidden/BlitCopyDepth'
+CreateFromSerializedShader: 'Hidden/Internal-GUITextureClip', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-GUITextureClip'
+CreateFromSerializedShader: 'Hidden/Internal-GUITextureClipText', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-GUITextureClipText'
+CreateFromSerializedShader: 'Hidden/Internal-GUITexture', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-GUITexture'
+CreateFromSerializedShader: 'Hidden/Internal-GUITextureBlit', '', ''
+CreateFromSerializedSubShader:'Hidden/Internal-GUITextureBlit'
+CreateFromSerializedShader: 'Hidden/ConvertTexture', '', ''
+CreateFromSerializedSubShader:'Hidden/ConvertTexture'
+CreateFromSerializedShader: 'Hidden/VR/BlitCopyFromTexArray', '', ''
+CreateFromSerializedSubShader:'Hidden/VR/BlitCopyFromTexArray'
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+CreateFromSerializedShader: 'Hidden/InternalClear', '', ''
+CreateFromSerializedSubShader:'Hidden/InternalClear'
+CreateFromSerializedShader: 'Skybox/Procedural', '', ''
+CreateFromSerializedSubShader:'Skybox/Procedural'
+CreateFromSerializedShader: 'GUI/Text Shader', '', ''
+CreateFromSerializedSubShader:'GUI/Text Shader'
+UnloadTime: 1.421213 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 960 -> priority: 1 
+  Thread -> id: fec -> priority: 1 
+1,card_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2,card_9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3,card_2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1,card_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2,card_joker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3,card_4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4,card_10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5,card_11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
